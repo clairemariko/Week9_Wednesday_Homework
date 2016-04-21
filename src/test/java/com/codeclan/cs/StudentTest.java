@@ -19,7 +19,11 @@ import org.junit.*;
 			assertEquals("Anderson", u.getLastName());
 		}
 		
-		
+		//make a test to see if can add project
+//		@Test
+//		public void TestStudentAddProject(){
+//			
+//		}
 	}
 
 
